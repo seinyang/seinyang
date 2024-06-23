@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBODD&height=200&section=header&text=seinYang%20GitHub!&fontSize=90&fontColor=00000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB0DD&height=200&section=header&text=seinYang%20GitHub!&fontSize=90&fontColor=00000" />
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
